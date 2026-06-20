@@ -18,7 +18,7 @@ Recently, someone asked me how to create a C# external, so I decided to put toge
 
 ## Credits
 
-**MrDucky2025** for the methods used in this project.
+`MrDucky2025` for the methods used in this project.
 
 ## Disclaimer
 
